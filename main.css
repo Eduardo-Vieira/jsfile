@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fileShow {
+    width: 90%;
+    height: 600px;
+    margin: 16px;
+}
+file{
+    margin: 16px;
+}
+.top{
+    height: 40px;
+    background-color: brown;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 16px;
+    padding-top: 16px;
+    padding-left: 16px;
+}
+.info{
+    font-size: 18px;
+    color: #424242;
+    margin: 16px;
+}
